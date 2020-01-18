@@ -1,9 +1,10 @@
 import React from 'react'
+import Navbar from '../../Navbar/Navbar'
 
 function Search() {
     return (
         <div>
-            Search
+           <Navbar/>
         </div>
     )
 }
