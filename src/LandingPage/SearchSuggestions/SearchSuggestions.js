@@ -1,9 +1,9 @@
 import React from 'react'
-import styles from './SearchSuggestiong.module.css'
+import styles from './SearchSuggestions.module.css'
 
 function SearchSuggestions() {
     return (
-        <div className="styles.suggestions">
+        <div className={styles.suggestions}>
               <span className={`icons is small ${styles['search-icon']}`}> <i className="fas fa-utensils"></i> 
               <span className={styles.suggestion}>Restaurant </span> </span>
 
