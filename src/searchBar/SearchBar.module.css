@@ -6,6 +6,6 @@
     background: #bd1f1f;
 }
 
-:global(.icon){
+:global(.icon).search-icon{
     color:#fff;
 }
